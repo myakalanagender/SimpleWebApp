@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> hi nani bhai.. </h1>   
+         <h1> hi nani bhai </h1>   
 	 
 
     </section>    
